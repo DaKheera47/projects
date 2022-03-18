@@ -1,0 +1,4 @@
+node_modules/
+venv/
+site-packages/
+.git/

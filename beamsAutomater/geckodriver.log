@@ -1,0 +1,1450 @@
+1646491795900	geckodriver	INFO	Listening on 127.0.0.1:59531
+1646491836870	geckodriver	INFO	Listening on 127.0.0.1:59545
+1646492231459	geckodriver	INFO	Listening on 127.0.0.1:52374
+1646492234484	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52375" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofile7LwJA8"
+1646492235324	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofile7LwJA8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52375/devtools/browser/003ec921-02f0-46cb-b97c-3342790a1913
+1646492238838	Marionette	INFO	Listening on port 52380
+1646492238883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+1646492277656	Marionette	INFO	Stopped listening on port 52380
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1646492426697	geckodriver	INFO	Listening on 127.0.0.1:52530
+1646492429788	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52531" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofileLRP6hU"
+1646492430215	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofileLRP6hU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52531/devtools/browser/a3e5e9a7-98fb-42c0-8b00-22bce0fe1078
+1646492432928	Marionette	INFO	Listening on port 52538
+1646492433010	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+1646492445873	Marionette	INFO	Stopped listening on port 52538
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1646492479849	geckodriver	INFO	Listening on 127.0.0.1:52666
+1646492482951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52667" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofilehCjJzP"
+1646492483375	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofilehCjJzP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52667/devtools/browser/ea78e176-106e-4d22-bf90-e604dd4ddfc7
+1646492485650	Marionette	INFO	Listening on port 52685
+1646492486163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+1646492496804	Marionette	INFO	Stopped listening on port 52685
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\dakonwindows\AppData\Local\Temp\rust_mozprofilehCjJzP\protections.sqlite
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1646492542843	geckodriver	INFO	Listening on 127.0.0.1:52807
+1646492545930	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52808" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofileppuNdi"
+1646492546450	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofileppuNdi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52808/devtools/browser/5503c7c9-4b8d-4e6a-9b2a-63fadf938fb8
+1646492551832	Marionette	INFO	Listening on port 52814
+1646492552285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1646492563867	Marionette	INFO	Stopped listening on port 52814
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\dakonwindows\AppData\Local\Temp\rust_mozprofileppuNdi\protections.sqlite
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1646492575563	geckodriver	INFO	Listening on 127.0.0.1:52923
+1646492578632	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52924" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofilegEd4cS"
+1646492579077	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofilegEd4cS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52924/devtools/browser/b9b2302b-a8db-4337-abcb-ab797184641d
+1646492581772	Marionette	INFO	Listening on port 52931
+1646492581836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+1646492619017	Marionette	INFO	Stopped listening on port 52931
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\dakonwindows\AppData\Local\Temp\rust_mozprofilegEd4cS\protections.sqlite
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+1646492820847	geckodriver	INFO	Listening on 127.0.0.1:53208
+1646492823937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53209" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofilemsPib0"
+1646492824343	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofilemsPib0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53209/devtools/browser/09fe8871-30bc-4b09-b65e-ddd3e4d71c9f
+1646492829543	Marionette	INFO	Listening on port 53215
+1646492829809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+1646492864412	Marionette	INFO	Stopped listening on port 53215
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1646492874200	geckodriver	INFO	Listening on 127.0.0.1:53325
+1646492877291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53326" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofilextj0ui"
+1646492877700	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofilextj0ui\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53326/devtools/browser/c01bb63a-8bdb-4316-81d9-62318baef9b9
+1646492880126	Marionette	INFO	Listening on port 53333
+1646492880497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+1646492918329	Marionette	INFO	Stopped listening on port 53333
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646492931116	geckodriver	INFO	Listening on 127.0.0.1:53458
+1646492934187	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53459" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofileqVMDDn"
+1646492934609	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofileqVMDDn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53459/devtools/browser/2b3d0a0a-1a65-4b10-bfab-ed4bfdbdef89
+1646492940532	Marionette	INFO	Listening on port 53465
+1646492940577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+1646492981908	geckodriver	INFO	Listening on 127.0.0.1:53575
+1646492984986	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53576" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofileZC5bBl"
+1646492985407	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofileZC5bBl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53576/devtools/browser/d87558b0-9417-47e9-8e81-886650dd6bdf
+1646492987964	Marionette	INFO	Listening on port 53583
+1646492988203	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/inspinia_2.3/js/jquery-2.1.1.js, line 4: TypeError: b.body is null
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+1646493016752	Marionette	INFO	Stopped listening on port 53583
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1646493278376	geckodriver	INFO	Listening on 127.0.0.1:51497
+1646493281438	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51498" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofileSlMWQT"
+1646493281873	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofileSlMWQT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51498/devtools/browser/73d6b85e-1467-49cf-a90b-d5cc33029ba4
+1646493284441	Marionette	INFO	Listening on port 51506
+1646493284651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+1646493343473	Marionette	INFO	Stopped listening on port 51506
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1646493356052	geckodriver	INFO	Listening on 127.0.0.1:50554
+1646493359089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50555" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofileytaUe3"
+1646493359521	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofileytaUe3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50555/devtools/browser/1e98f313-dd99-46cd-bf84-917ef216aaa5
+1646493361948	Marionette	INFO	Listening on port 50562
+1646493362299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+1646493512785	Marionette	INFO	Stopped listening on port 50562
+1646493519191	geckodriver	INFO	Listening on 127.0.0.1:50772
+1646493522261	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50773" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofileIEWwWG"
+1646493522678	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofileIEWwWG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50773/devtools/browser/9f4ab8c9-337a-47f3-b969-6a01ef8dced4
+1646493525052	Marionette	INFO	Listening on port 50780
+1646493525485	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+1646493564648	Marionette	INFO	Stopped listening on port 50780
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1646493571401	geckodriver	INFO	Listening on 127.0.0.1:50926
+1646493574463	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50927" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofileSIuh2a"
+1646493574890	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofileSIuh2a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50927/devtools/browser/b7455268-0ff8-4eb8-9c15-5e2e4c36ba9c
+1646493577301	Marionette	INFO	Listening on port 50934
+1646493577670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1646493719960	Marionette	INFO	Stopped listening on port 50934
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1646493728675	geckodriver	INFO	Listening on 127.0.0.1:51192
+1646493731749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51193" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofileYufMbx"
+1646493732370	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofileYufMbx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51193/devtools/browser/930acd53-8005-41c6-b0ca-5dbcbf8ccc3c
+1646493736215	Marionette	INFO	Listening on port 51199
+1646493736678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+1646493764689	Marionette	INFO	Stopped listening on port 51199
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1646493980058	geckodriver	INFO	Listening on 127.0.0.1:52497
+1646493983120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52498" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofileFxQ75S"
+1646493983554	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofileFxQ75S\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52498/devtools/browser/fc11783c-d9c0-4e8d-82c8-52e266ad1d62
+1646493986128	Marionette	INFO	Listening on port 52505
+1646493986342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+1646494112257	Marionette	INFO	Stopped listening on port 52505
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1646494119622	geckodriver	INFO	Listening on 127.0.0.1:52695
+1646494122690	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52696" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofileOUoUw9"
+1646494123119	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofileOUoUw9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52696/devtools/browser/201b30af-fb35-4204-9825-0a1be85b7d77
+1646494125659	Marionette	INFO	Listening on port 52704
+1646494125902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+1646494196288	Marionette	INFO	Stopped listening on port 52704
+1646494203519	geckodriver	INFO	Listening on 127.0.0.1:53759
+1646494206584	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53760" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofilejJC0Iv"
+1646494207004	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofilejJC0Iv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53760/devtools/browser/1c5e53f2-e9e5-4b3d-a5d9-b0b04f49a146
+1646494209490	Marionette	INFO	Listening on port 53767
+1646494209791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+1646494237858	Marionette	INFO	Stopped listening on port 53767
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1646494281555	geckodriver	INFO	Listening on 127.0.0.1:53916
+1646494284642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53917" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofilehfL9na"
+1646494285064	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofilehfL9na\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53917/devtools/browser/9241ef04-74f3-4a21-833a-8dd1835f3026
+1646494287705	Marionette	INFO	Listening on port 53924
+1646494287853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+1646494365892	Marionette	INFO	Stopped listening on port 53924
+1646494368335	geckodriver	INFO	Listening on 127.0.0.1:54092
+1646494371411	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54093" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofilentw6Yy"
+1646494371863	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofilentw6Yy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54093/devtools/browser/45125328-24d6-4023-97b1-7053bb9c7f60
+1646494374574	Marionette	INFO	Listening on port 54100
+1646494374630	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+1646494639446	Marionette	INFO	Stopped listening on port 54100
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1646494642257	geckodriver	INFO	Listening on 127.0.0.1:54405
+1646494645357	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54406" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofilejbb6xQ"
+1646494645775	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofilejbb6xQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54406/devtools/browser/acc8b88c-fed9-4b93-858a-50bfd2ef19a0
+1646494648185	Marionette	INFO	Listening on port 54412
+1646494648573	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+1646494692181	Marionette	INFO	Stopped listening on port 54412
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1646494700876	geckodriver	INFO	Listening on 127.0.0.1:54548
+1646494703955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54549" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofileGxeASy"
+1646494704388	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofileGxeASy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54549/devtools/browser/7705255b-e12c-407c-bc89-398eab06b159
+1646494706889	Marionette	INFO	Listening on port 54556
+1646494707191	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+1646494784682	Marionette	INFO	Stopped listening on port 54556
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646494848097	geckodriver	INFO	Listening on 127.0.0.1:54005
+1646494851182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54006" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofilecFd8UP"
+1646494851608	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofilecFd8UP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54006/devtools/browser/8630df83-dcff-4a04-be87-fd097b496210
+1646494853976	Marionette	INFO	Listening on port 54013
+1646494854395	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+1646494974239	Marionette	INFO	Stopped listening on port 54013
+1646494993787	geckodriver	INFO	Listening on 127.0.0.1:54187
+1646494996856	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54188" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofile1iuunn"
+1646494997271	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofile1iuunn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54188/devtools/browser/2bc5ac81-f05f-434b-8e96-6572697e96ec
+1646494999656	Marionette	INFO	Listening on port 54194
+1646495000076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/plugins/global/plugins.bundle.js, line 12837: TypeError: document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/plugins/global/plugins.bundle.js, line 60665: TypeError: a.adopt(...).nested is not a function
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 933: TypeError: document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 1648: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5201: TypeError: document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5802: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 6189: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 8332: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 9164: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/home.php, line 1152: TypeError: response.responseText is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/home_dashboard/assets/custom.js, line 2: TypeError: $(...).tooltip is not a function
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+1646495034162	Marionette	INFO	Stopped listening on port 54194
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1646495188048	geckodriver	INFO	Listening on 127.0.0.1:54399
+1646495191132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54400" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofileqEfXUm"
+1646495191545	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofileqEfXUm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54400/devtools/browser/5bc7ae87-554c-42a2-b5d0-d6cbfce25f9d
+1646495194116	Marionette	INFO	Listening on port 54407
+1646495194345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1646495203921	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+1646495224147	Marionette	INFO	Stopped listening on port 54407
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1646495277424	geckodriver	INFO	Listening on 127.0.0.1:54546
+1646495280489	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54547" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofilehJJgCO"
+1646495280903	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofilehJJgCO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54547/devtools/browser/988ad12a-4ab2-44b0-a7f1-178748166671
+1646495283285	Marionette	INFO	Listening on port 54555
+1646495283706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/home.php, line 1152: TypeError: response.responseText is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/plugins/global/plugins.bundle.js, line 12837: TypeError: document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/plugins/global/plugins.bundle.js, line 60665: TypeError: a.adopt(...).nested is not a function
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 933: TypeError: document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 1648: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5201: TypeError: document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5802: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 6189: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 8332: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 9164: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/home_dashboard/assets/custom.js, line 2: TypeError: $(...).tooltip is not a function
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+1646495364829	Marionette	INFO	Stopped listening on port 54555
+1646495410497	geckodriver	INFO	Listening on 127.0.0.1:63135
+1646495413573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63136" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofile1x117x"
+1646495414006	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofile1x117x\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63136/devtools/browser/435ee36a-e19f-4700-a5d9-df0c995486cc
+1646495416615	Marionette	INFO	Listening on port 63143
+1646495416783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1646495431619	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+1646495472753	Marionette	INFO	Stopped listening on port 63143
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1646495475802	geckodriver	INFO	Listening on 127.0.0.1:63277
+1646495478862	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63278" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofileK8nwuP"
+1646495479284	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofileK8nwuP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63278/devtools/browser/2a8ce72d-815d-414c-bcdc-cfd8760171bd
+1646495481824	Marionette	INFO	Listening on port 63285
+1646495482066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+1646495533593	geckodriver	INFO	Listening on 127.0.0.1:63426
+1646495536660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63427" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofilegun0KZ"
+1646495537140	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofilegun0KZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63427/devtools/browser/3280ae5f-ea36-47b9-94c2-c245aa70342a
+1646495539530	Marionette	INFO	Listening on port 63434
+1646495539866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/plugins/global/plugins.bundle.js, line 12837: TypeError: document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/plugins/global/plugins.bundle.js, line 60665: TypeError: a.adopt(...).nested is not a function
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 933: TypeError: document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 1648: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5201: TypeError: document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5802: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 6189: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 8332: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 9164: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/home_dashboard/assets/custom.js, line 2: TypeError: $(...).tooltip is not a function
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1646495647717	Marionette	INFO	Stopped listening on port 63434
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1646495654213	geckodriver	INFO	Listening on 127.0.0.1:63627
+1646495657289	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63628" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofilerHgaWX"
+1646495657712	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofilerHgaWX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63628/devtools/browser/997e18a2-a69d-4047-836b-bd58fbd0d3a7
+1646495660245	Marionette	INFO	Listening on port 63634
+1646495660508	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+1646495715710	Marionette	INFO	Stopped listening on port 63634
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1646495718540	geckodriver	INFO	Listening on 127.0.0.1:63782
+1646495721635	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63783" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofileu7jkIw"
+1646495722056	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofileu7jkIw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63783/devtools/browser/9deda1ec-0355-40fd-90c6-ac6ae86a8a8e
+1646495724560	Marionette	INFO	Listening on port 63790
+1646495724841	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:void(0);'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:448:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:412:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2129:35
+addAllSources@resource://devtools/server/actors/thread.js:1484:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:242:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:152:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:52:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:624:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:530:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:void(0);'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1646495843123	Marionette	INFO	Stopped listening on port 63790
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1646495850091	geckodriver	INFO	Listening on 127.0.0.1:63994
+1646495853186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63995" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofileAJHvA6"
+1646495853621	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofileAJHvA6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63995/devtools/browser/ea8bf45a-7e45-4793-bed2-409213e3aa1e
+1646495856024	Marionette	INFO	Listening on port 64001
+1646495856392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+1646495914960	Marionette	INFO	Stopped listening on port 64001
+1646495915532	geckodriver	INFO	Listening on 127.0.0.1:64151
+1646495918597	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64152" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofile9CqUyA"
+1646495919046	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofile9CqUyA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64152/devtools/browser/cfff234c-12b0-4b83-bf50-32b1bc8ba0e0
+1646495921625	Marionette	INFO	Listening on port 64158
+1646495921833	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+1646495987729	Marionette	INFO	Stopped listening on port 64158
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+1646495989888	geckodriver	INFO	Listening on 127.0.0.1:64314
+1646495992975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64315" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofilej4Xm1Z"
+1646495993422	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofilej4Xm1Z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64315/devtools/browser/9dcad80e-1c2b-40aa-8058-b4a6514e775c
+1646495995955	Marionette	INFO	Listening on port 64322
+1646495996191	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+1646496054271	Marionette	INFO	Stopped listening on port 64322
+1646496058277	geckodriver	INFO	Listening on 127.0.0.1:64476
+1646496061366	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64477" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofile222J4i"
+1646496061789	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofile222J4i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64477/devtools/browser/a2a6b587-20be-485a-85d6-772dc6116853
+1646496064269	Marionette	INFO	Listening on port 64484
+1646496064577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+1646496211020	Marionette	INFO	Stopped listening on port 64484
+1646496214874	geckodriver	INFO	Listening on 127.0.0.1:64682
+1646496217940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64683" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofilekzrI0R"
+1646496218376	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofilekzrI0R\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64683/devtools/browser/a43b2a90-6d9e-484c-a043-79b774ae057b
+1646496220819	Marionette	INFO	Listening on port 64690
+1646496221159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginHelper(Content): "Couldn't parse origin for" "about:blank" ({})
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1646498301007	Marionette	INFO	Stopped listening on port 64690

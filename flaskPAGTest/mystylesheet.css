@@ -1,0 +1,17 @@
+QPushButton {
+    font-family: "PoppinsRegular";
+    color: white;
+    font-size: 14px;
+    border-radius: 2px;
+    background-color: rgb(144, 144, 144);
+    padding: 10px;
+}
+
+QLabel {
+    font-family: "PoppinsRegular";
+    color: white;
+    font-size: 14px;
+    border-radius: 2px;
+    background-color: rgb(144, 144, 144);
+    padding: 10px;
+}
