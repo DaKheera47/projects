@@ -3,11 +3,22 @@ import time
 import keyboard
 
 pag.PAUSE = 0.3
-coords = pag.locateOnScreen("bar.png", confidence=0.8, grayscale=True)
-BAR_PERCENTAGE = 0.35
+
 
 def read():
     keyboard.read_key()
+
+
+def skipSong(PERCENTAGE=0.25, sleep=2):
+    # time.sleep(sleep)
+    bar = pag.locateOnScreen("bar.png", confidence=0.5, grayscale=True)
+    coords = pag.center(pag.locateOnScreen(
+        "pause.png", confidence=0.8, grayscale=True))
+
+    # get point 30 pixels below coords y
+    halfPoint = (coords[0], coords[1] + 30)
+
+    pag.click(halfPoint[0] - (bar.width * (0.5 - PERCENTAGE)), halfPoint[1])
 
 
 def like():
@@ -20,17 +31,15 @@ def like():
         pass
 
 
-def nextSong():
+def nextSong(PERCENTAGE=0.25):
     pag.press("nexttrack")
-    pag.click(coords.left + (coords.width * BAR_PERCENTAGE),
-              coords.top + (coords.height * 0.50))
+    skipSong(PERCENTAGE=0.25)
 
 
-def previous():
+def previous(PERCENTAGE=0.25):
     pag.press("prevtrack")
     pag.press("prevtrack")
-    pag.click(coords.left + (coords.width * BAR_PERCENTAGE),
-              coords.top + (coords.height * 0.50))
+    skipSong(PERCENTAGE=0.25)
 
 
 def my_exit():
@@ -39,6 +48,11 @@ def my_exit():
 
 keyboard.add_hotkey("n", nextSong)
 keyboard.add_hotkey("p", previous)
+
+keyboard.add_hotkey("1", skipSong, args=([0.25]))
+keyboard.add_hotkey("2", skipSong, args=([0.5]))
+keyboard.add_hotkey("3", skipSong, args=([0.75]))
+
 keyboard.add_hotkey("l", like)
 keyboard.add_hotkey("esc", my_exit)
 
