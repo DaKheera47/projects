@@ -8,6 +8,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import NoSuchElementException, StaleElementReferenceException
 import time
 import random
 import os
@@ -21,9 +22,10 @@ def clear():
 
 
 def resetFrame(driver, newFrame, sleep=3):
-    time.sleep(sleep)
+    time.sleep(sleep / 2)
     driver.switch_to.default_content()
     driver.switch_to.frame(driver.find_element(by=By.ID, value=newFrame))
+    time.sleep(sleep / 2)
 
 
 # driver = webdriver.Firefox(service=Service(GeckoDriverManager().install()))
@@ -39,37 +41,44 @@ inputs[1].send_keys(Keys.ENTER)
 # go to old beams
 time.sleep(DELAY)
 driver.get("https://beams.beaconhouse.edu.pk/home.php")
-time.sleep(DELAY)
 
-resetFrame(driver, "ii_core/mobile_app/sch_diary.php")
-gradebook = driver.find_element(by=By.LINK_TEXT, value="Gradebook")
-gradebook.click()
+while True:
+    try:
+        resetFrame(driver, "ii_core/mobile_app/sch_diary.php", sleep=DELAY)
+        gradebook = driver.find_element(by=By.LINK_TEXT, value="Gradebook")
+        gradebook.click()
+        break
+    except NoSuchElementException as e:
+        print(e)
+        continue
 
 # selecting branch
-resetFrame(
-    driver, "ii_//beams.beaconhouse.edu.pk/students/sam/dashboard/sam_branches.php")
-selectButton = driver.find_element(by=By.TAG_NAME, value="input")
+samBranches = "ii_//beams.beaconhouse.edu.pk/students/sam/dashboard/sam_branches.php"
+resetFrame(driver, samBranches)
+
+while True:
+    try:
+        selectButton = driver.find_element(by=By.TAG_NAME, value="input")
+        selectButton.click()
+        break
+    except NoSuchElementException as e:
+        print(e)
+        continue
+
+branchSelect = ".bss_form_button"
+selectButton = driver.find_element(by=By.CSS_SELECTOR, value=branchSelect)
 selectButton.click()
-selectButton = driver.find_element(
-    by=By.CSS_SELECTOR, value=".bss_form_button")
-selectButton.click()
+time.sleep(DELAY)
 
 # assessment entry
 resetFrame(driver, "ii_students/sam/dashboard/index.php")
 assessmentEntry = driver.find_element(by=By.ID, value="ext-gen11")
 assessmentEntry.click()
+time.sleep(DELAY)
 
-# actual entry process
-# classToSelect = "Class 8"
-classToSelect = "CAIE O LEVEL - Class 9"
-section = "Orange"
-marks = 16
-desc = "Test 4 18 22"
-# selections = [f"CAIE O LEVEL - Class {classToSelect}", section,
-#               "Urdu B 0539", "End of Year", "Exams", "Listening",  "END of Year"]
-selections = [classToSelect, section,
-              "Urdu B 0539", "End of Year", "Assessment", "Single",  "End of Unit"]
-
+clear()
+desc = input("Enter description: ")
+marks = int(input("Enter marks: "))
 selections = ["Class: ", "Section: ", "Subject: ", "Semester: ",
               "Assessment: ", "Paper Type: ", "Type of Test: "]
 
@@ -79,15 +88,26 @@ def get_label(option): return option.text
 
 assEntryFrame = "ii_students/assessment/sam_class_assessment_entry.php"
 for i, selection in enumerate(selections):
-    resetFrame(driver, assEntryFrame, sleep=.5)
-    entries = driver.find_elements(by=By.CLASS_NAME, value="bss_form_textbox")
-    select = Select(entries[i])
+    while True:
+        resetFrame(driver, assEntryFrame, sleep=0)
+        entries = driver.find_elements(by=By.CLASS_NAME, value="bss_form_textbox")
+        time.sleep(0.15)
 
-    # loop through options in select element
-    sel, index = pick(select.options, selection, options_map_func=get_label)
-    print(sel, index)
-    select.select_by_index(index)
+        try:
+            select = Select(entries[i])
+            # loop through options in select element
+            sel, index = pick(select.options[1:],
+                              selection, options_map_func=get_label)
+            break
+        except ValueError as e:
+            continue
 
+        except StaleElementReferenceException as e:
+            continue
+
+    # compensating for removing "Select" Option
+    select.select_by_index(index + 1)
+    clear()
 
 maxMarks = driver.find_element(by=By.ID, value="br_max_marks")
 maxMarks.send_keys(f"{marks}")
@@ -95,57 +115,68 @@ maxMarks.send_keys(f"{marks}")
 description = driver.find_element(by=By.ID, value="br_desc")
 description.send_keys(f"{desc}")
 
+# refresh button
 refresh = driver.find_element(by=By.ID, value="aaaa")
 refresh.click()
 
 # entry job
-resetFrame(driver, "ii_students/assessment/sam_class_assessment_entry.php")
-students = driver.find_elements(
-    by=By.XPATH, value="//td[@class='x-grid3-col x-grid3-cell x-grid3-td-std_name ']//div")
+resetFrame(driver, assEntryFrame)
+xpath = "//td[@class='x-grid3-col x-grid3-cell x-grid3-td-std_name ']//div"
+students = driver.find_elements(by=By.XPATH, value=xpath)
 
 studentNames = []
 for student in students:
     studentNames.append(student.text)
 
+# entry job
 xpath = f"//td[@class='x-grid3-col x-grid3-cell x-grid3-td-std_grade ']"
 entries = driver.find_elements(by=By.XPATH, value=xpath)
 
 results = []
-for i in range(len(entries)):
-    resetFrame(
-        driver, "ii_students/assessment/sam_class_assessment_entry.php", sleep=0.25)
+total = 0
+for i, ele in enumerate(entries):
+    resetFrame(driver, assEntryFrame, sleep=0.2)
     clear()
     print(f"Max marks: {marks}")
-    print(f"{i + 1}/{len(entries)}")
+    print(f"Description: {desc}")
+
+    # average
+    if i != 0:
+        avg = total / i
+        print(f"Average: {avg :.2f}")
+
+    print()
+
     student = students[i]
     e = entries[i]
 
-    try:
-        if i != 0:
-            print(
-                f"Previous Student: {studentNames[i - 1]}: {obtained}/{marks}")
-    except Exception as f:
-        print(f)
-        pass
-    try:
-        print(f"Next Student: {studentNames[i + 1]}")
-        print()
-        # print(f"{studentNames[i - 1]}: {obtained}/{marks}")
-    except:
-        pass
+    # print previous students
+    for ri, r in enumerate(results, start=1):
+        print(f"{ri :02}. {r['name']}: {r['marks']}/{marks}")
 
+    # click on student input
     driver.execute_script("arguments[0].scrollIntoView()", e)
     e.click()
-    inp = driver.find_element(
-        by=By.XPATH, value="//input[@id='ext-comp-1003']")
-    obtained = input(f"Current Student: {student.text}: ")
+
+    # get obtained from user
+    while True:
+        obtained = int(input(f"{i + 1 :02}. {student.text}: "))
+        if obtained <= marks:
+            break
+
+    total += obtained
     results.append({"name": student.text, "marks": obtained})
-    # obtained = random.randint(0, 30)
-    print(f"{i + 1}/{len(entries)}")
-    print(f"{student.text}: {obtained}/{marks}")
+
+    # get input and send data
+    stuInp = "//input[@id='ext-comp-1003']"
+    inp = driver.find_element(by=By.XPATH, value=stuInp)
     inp.send_keys(f"{obtained}")
     inp.send_keys(Keys.ENTER)
 
-# time.sleep(30)
-# driver.close()
 print(results)
+
+resetFrame(driver, assEntryFrame)
+# save
+saveBtn = driver.find_element(by=By.ID, value="ext-gen22").click()
+time.sleep(5)
+driver.quit()

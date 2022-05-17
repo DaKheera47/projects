@@ -1,1 +1,1 @@
-python main.py --refresh 5 --email shaheer30sarfaraz@gmail.comgma.il --password Ilovemamma143
+python main.py
