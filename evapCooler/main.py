@@ -64,30 +64,30 @@ def getOutputTemp(valueInTable):
             if humidity >= 80 and humidity <= 90:
                 return tempTable[ele][8]
 
+# temp = round(temp)
 
-
-if temp >= 25 and temp <= 27:
+if temp >= 25 and temp < 27:
     outputTemp = getOutputTemp(25)
 
-elif temp >= 27 and temp <= 30:
+elif temp >= 27 and temp < 30:
     outputTemp = getOutputTemp(27)
 
-elif temp >= 30 and temp <= 32:
+elif temp >= 30 and temp < 32:
     outputTemp = getOutputTemp(30)
 
-elif temp >= 32 and temp <= 35:
+elif temp >= 32 and temp < 35:
     outputTemp = getOutputTemp(32)
 
-elif temp >= 35 and temp <= 37:
+elif temp >= 35 and temp < 37:
     outputTemp = getOutputTemp(35)
 
-elif temp >= 37 and temp <= 40:
+elif temp >= 37 and temp < 40:
     outputTemp = getOutputTemp(37)
 
-elif temp >= 40 and temp <= 42:
+elif temp >= 40 and temp < 42:
     outputTemp = getOutputTemp(40)
 
-elif temp >= 42 and temp <= 45:
+elif temp >= 42 and temp < 45:
     outputTemp = getOutputTemp(42)
 
 print(f"{humidity = }%")
