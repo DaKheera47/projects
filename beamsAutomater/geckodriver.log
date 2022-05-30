@@ -12399,6 +12399,7 @@ JavaScript error: https://beams.beaconhouse.edu.pk/students/assessment/sam_class
 
 ###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
 
+<<<<<<< HEAD
 1652958322788	geckodriver	INFO	Listening on 127.0.0.1:38339
 1652958323801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileBJrYRM"
 Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/dak which is owned by dak.)
@@ -12428,6 +12429,16 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1652962099573	Marionette	INFO	Listening on port 36769
 Read port: 36769
 1652962099791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+=======
+1653387553990	geckodriver	INFO	Listening on 127.0.0.1:55841
+1653387606589	geckodriver	INFO	Listening on 127.0.0.1:62058
+1653387609759	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62059" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofile3aVBX7"
+1653387610651	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofile3aVBX7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62059/devtools/browser/c89a92ca-7891-4710-9653-311f2aaff9e4
+1653387613578	Marionette	INFO	Listening on port 62064
+1653387613985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
@@ -12443,11 +12454,18 @@ JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/j
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+<<<<<<< HEAD
+=======
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+<<<<<<< HEAD
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
 1652962172843	Marionette	INFO	Stopped listening on port 36769
 1652962489231	geckodriver	INFO	Listening on 127.0.0.1:54737
@@ -12461,6 +12479,22 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1652962495027	Marionette	INFO	Listening on port 38685
 Read port: 38685
 1652962495143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+=======
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/resources/js/index.js?id=1653387609, line 2896: TypeError: exists is undefined
+1653387904733	Marionette	INFO	Stopped listening on port 62064
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1653387975278	geckodriver	INFO	Listening on 127.0.0.1:49839
+1653387978310	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49840" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofilemcIAz9"
+1653387978776	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofilemcIAz9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49840/devtools/browser/0b912b96-657b-4209-bc9b-3549fc4490eb
+1653387981537	Marionette	INFO	Listening on port 49864
+1653387981997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
@@ -12476,12 +12510,138 @@ JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/j
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
 JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/resources/js/index.js?id=1653387976, line 2896: TypeError: exists is undefined
+1653388194994	Marionette	INFO	Stopped listening on port 49864
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653388330923	geckodriver	INFO	Listening on 127.0.0.1:61221
+1653388333983	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61222" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofileXX46A3"
+1653388334460	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofileXX46A3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61222/devtools/browser/934018dc-7f8c-4746-8e8f-fda9f9c0e2f7
+1653388337461	Marionette	INFO	Listening on port 61229
+1653388337665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+<<<<<<< HEAD
+=======
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+<<<<<<< HEAD
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
@@ -12500,6 +12660,20 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1652962616622	Marionette	INFO	Listening on port 38909
 Read port: 38909
 1652962616758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+=======
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/resources/js/index.js?id=1653388332, line 2896: TypeError: exists is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/resources/js/index.js?id=1653388332, line 2267: TypeError: ReqWindow.contentWindow.document.body is null
+1653388436625	Marionette	INFO	Stopped listening on port 61221653388437393	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51346" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofile8jGsC1"
+1653388437810	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofile8jGsC1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51346/devtools/browser/a35a378d-a569-43a1-9bc0-9f2b0064c9b8
+1653388440286	Marionette	INFO	Listening on port 51352
+1653388440562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
@@ -12515,11 +12689,18 @@ JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/j
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+<<<<<<< HEAD
+=======
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+<<<<<<< HEAD
 1652962657739	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
 1652962836358	geckodriver	INFO	Listening on 127.0.0.1:55123
 1652962836365	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileCk3Wg2"
@@ -12544,6 +12725,67 @@ JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundEr
 
 ###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
 
+=======
+JavaScript error: https://beams.beaconhouse.edu.pk/home/home.php, line 1152: TypeError: response.responseText is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/resources/js/index.js?id=1653388434, line 2896: TypeError: exists is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/students/assessment/sam_class_assessment_entry_dtl_2.php, line 12: TypeError: parent.document.getElementById(...) is null
+1653388505614	Marionette	INFO	Stopped listening on port 51352
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653388582879	geckodriver	INFO	Listening on 127.0.0.1:56986
+1653388585932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56987" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofileGo7qbh"
+1653388586414	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofileGo7qbh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56987/devtools/browser/4d0e7056-6af9-4518-8d54-827c74c3b010
+1653388588889	Marionette	INFO	Listening on port 56993
+1653388589109	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
@@ -12559,11 +12801,182 @@ JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/j
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+<<<<<<< HEAD
+=======
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/resources/js/index.js?id=1653388583, line 2896: TypeError: exists is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/resources/js/index.js?id=1653388583, line 2267: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/students/assessment/sam_class_assessment_entry_dtl_2.php, line 12: TypeError: parent.document.getElementById(...) is null
+1653388781951	Marionette	INFO	Stopped listening on port 56993
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+1653716726779	geckodriver	INFO	Listening on 127.0.0.1:65321
+1653716730091	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65322" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofilek2VGFE"
+1653716731529	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofilek2VGFE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65322/devtools/browser/7c8daa8a-a022-470c-b925-11d606c234e2
+1653716735146	Marionette	INFO	Listening on port 65328
+1653716735449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/resources/js/index.js?id=1653716092, line 2896: TypeError: exists is undefined
+JavaScript error: https://www.facebook.com/v4.0/plugins/page.php?adapt_container_width=true&app_id=1840543096269687&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df23132a44a1b022%26domain%3Dbeams.beaconhouse.edu.pk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fbeams.beaconhouse.edu.pk%252Ff996b19f194102%26relation%3Dparent.parent&container_width=0&height=280&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FBeaconhouseSchoolSystemOfficial%2F&locale=en_US&sdk=joey&show_facepile=true&small_header=true&tabs=timeline&width=, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/v4.0/plugins/page.php?adapt_container_width=true&app_id=1840543096269687&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df23132a44a1b022%26domain%3Dbeams.beaconhouse.edu.pk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fbeams.beaconhouse.edu.pk%252Ff996b19f194102%26relation%3Dparent.parent&container_width=0&height=280&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FBeaconhouseSchoolSystemOfficial%2F&locale=en_US&sdk=joey&show_facepile=true&small_header=true&tabs=timeline&width=, line 1: SyntaxError: unexpected token: ':'
+1653716822061	Marionette	INFO	Stopped listening on port 65328
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653716824189	geckodriver	INFO	Listening on 127.0.0.1:52651
+1653716827227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52652" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofileuQxLg2"
+1653716827891	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofileuQxLg2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52652/devtools/browser/1b83758b-c3b3-4eb7-a0b9-a0c7144ff8f3
+1653716830601	Marionette	INFO	Listening on port 52660
+1653716830961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+<<<<<<< HEAD
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/plugins/global/plugins.bundle.js, line 12837: TypeError: document.body is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/plugins/global/plugins.bundle.js, line 60665: TypeError: a.adopt(...).nested is not a function
 1652962872889	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
@@ -12575,6 +12988,26 @@ ATTENTION: default value of option mesa_glthread overridden by environment.
 ATTENTION: default value of option mesa_glthread overridden by environment.
 ATTENTION: default value of option mesa_glthread overridden by environment.
 1652962983191	Marionette	INFO	Marionette enabled
+=======
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/resources/js/index.js?id=1653716188, line 2896: TypeError: exists is undefined
+JavaScript error: https://www.facebook.com/v4.0/plugins/page.php?adapt_container_width=true&app_id=1840543096269687&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df134add15650dc2%26domain%3Dbeams.beaconhouse.edu.pk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fbeams.beaconhouse.edu.pk%252Ff38a7bb0084fd1a%26relation%3Dparent.parent&container_width=0&height=280&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FBeaconhouseSchoolSystemOfficial%2F&locale=en_US&sdk=joey&show_facepile=true&small_header=true&tabs=timeline&width=, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/v4.0/plugins/page.php?adapt_container_width=true&app_id=1840543096269687&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df134add15650dc2%26domain%3Dbeams.beaconhouse.edu.pk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fbeams.beaconhouse.edu.pk%252Ff38a7bb0084fd1a%26relation%3Dparent.parent&container_width=0&height=280&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FBeaconhouseSchoolSystemOfficial%2F&locale=en_US&sdk=joey&show_facepile=true&small_header=true&tabs=timeline&width=, line 1: SyntaxError: unexpected token: ':'
+SourceActor threw an exception: Error: Failed to fetch https://beams.beaconhouse.edu.pk/students/sam/dashboard/sam_branches.php?mobile=. Code 2152398879.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://beams.beaconhouse.edu.pk/students/sam/dashboard/sam_branches.php?mobile=. Code 2152398879.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://beams.beaconhouse.edu.pk/students/sam/dashboard/sam_branches.php?mobile=. Code 2152398879.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
 JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
 JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
 JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
@@ -12583,6 +13016,7 @@ JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundEr
 JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
 JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
 JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+<<<<<<< HEAD
 1652962984122	Marionette	INFO	Stopped listening on port 43089
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegsCtr6/search.json.mozlz4", (void 0)))
 
@@ -12591,6 +13025,17 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1652962986160	Marionette	INFO	Listening on port 40723
 Read port: 40723
 1652962986310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+=======
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1653716925927	Marionette	INFO	Stopped listening on port 52660
+1653716927681	geckodriver	INFO	Listening on 127.0.0.1:60873
+1653716930721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60874" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofileqpLVZt"
+1653716931328	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofileqpLVZt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60874/devtools/browser/7f9e8d81-5cca-4580-acfc-879ffe2ea180
+1653716934107	Marionette	INFO	Listening on port 60881
+1653716934490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
@@ -12606,6 +13051,9 @@ JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/j
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
@@ -12620,6 +13068,89 @@ JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/j
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 6189: TypeError: body is undefined
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 8332: TypeError: body is undefined
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 9164: TypeError: body is undefined
+1653716953270	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+JavaScript error: https://www.facebook.com/v4.0/plugins/page.php?adapt_container_width=true&app_id=1840543096269687&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df147a7925743508%26domain%3Dbeams.beaconhouse.edu.pk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fbeams.beaconhouse.edu.pk%252Ff5c120e12817f6%26relation%3Dparent.parent&container_width=0&height=280&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FBeaconhouseSchoolSystemOfficial%2F&locale=en_US&sdk=joey&show_facepile=true&small_header=true&tabs=timeline&width=, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/v4.0/plugins/page.php?adapt_container_width=true&app_id=1840543096269687&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df147a7925743508%26domain%3Dbeams.beaconhouse.edu.pk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fbeams.beaconhouse.edu.pk%252Ff5c120e12817f6%26relation%3Dparent.parent&container_width=0&height=280&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FBeaconhouseSchoolSystemOfficial%2F&locale=en_US&sdk=joey&show_facepile=true&small_header=true&tabs=timeline&width=, line 1: SyntaxError: unexpected token: ':'
+1653717002349	Marionette	INFO	Stopped listening on port 60881653717002679	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot se1653717003400	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofilefkyNBR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59810/devtools/browser/40577b52-73cd-4e8c-bc26-9814dc84c1cb
+1653717006917	Marionette	INFO	Listening on port 59818
+1653717006963	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+1653717055183	Marionette	INFO	Stopped listening on port 59818
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Chilconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofileFAzfL8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50034/devtools/browser/d3d5f714-47f4-4f59-b26b-9a3bd83e50b8
+1653717061045	Marionette	INFO	Listening on port 50057
+1653717061284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+<<<<<<< HEAD
+=======
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/plugins/global/plugins.bundle.js, line 12837: TypeError: document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/plugins/global/plugins.bundle.js, line 60665: TypeError: a.adopt(...).nested is not a function
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 933: TypeError: document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 1648: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5201: TypeError: document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5802: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 6189: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 8332: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 9164: TypeError: body is undefined
+<<<<<<< HEAD
 1652963010847	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 1736: TypeError: body is undefined
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5834: TypeError: body is undefined
@@ -12646,6 +13177,48 @@ console.error: services.settings:
 console.warn: services.settings: main/query-stripping sync interrupted by shutdown
 console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
 console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+=======
+JavaScript error: https://beams.beaconhouse.edu.pk/home/home_dashboard/assets/custom.js, line 2: TypeError: $(...).tooltip is not a function
+JavaScript error: https://beams.beaconhouse.edu.pk/home/home.php, line 1152: TypeError: response.responseText is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.facebook.com/v4.0/plugins/page.php?adapt_container_width=true&app_id=1840543096269687&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df2ebf0f72f70918%26domain%3Dbeams.beaconhouse.edu.pk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fbeams.beaconhouse.edu.pk%252Ff19f8e3c1e67e86%26relation%3Dparent.parent&container_width=0&height=280&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FBeaconhouseSchoolSystemOfficial%2F&locale=en_US&sdk=joey&show_facepile=true&small_header=true&tabs=timeline&width=, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/v4.0/plugins/page.php?adapt_container_width=true&app_id=1840543096269687&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df2ebf0f72f70918%26domain%3Dbeams.beaconhouse.edu.pk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fbeams.beaconhouse.edu.pk%252Ff19f8e3c1e67e86%26relation%3Dparent.parent&container_width=0&height=280&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FBeaconhouseSchoolSystemOfficial%2F&locale=en_US&sdk=joey&show_facepile=true&small_header=true&tabs=timeline&width=, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://beams.beaconhouse.edu.pk/resources/js/index.js?id=1653716413, line 2896: TypeError: exists is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/resources/js/index.js?id=1653716413, line 2267: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+SourceActor threw an exception: Error: Failed to fetch https://beams.beaconhouse.edu.pk/students/sam/dashboard/sam_branches.php?mobile=. Code 2152398879.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://beams.beaconhouse.edu.pk/students/sam/dashboard/sam_branches.php?mobile=. Code 2152398879.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://beams.beaconhouse.edu.pk/students/sam/dashboard/sam_branches.php?mobile=. Code 2152398879.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No suc1653717409848	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofilekQRoXr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59520/devtools/browser/4f2af313-e361-4fb2-afb8-73d2548556de
+1653717416707	Marionette	INFO	Listening on port 59525
+1653717416930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
@@ -12661,11 +13234,75 @@ JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/j
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/home_dashboard/index-dark.php, line 2168: TypeError: json is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/home_dashboard/index-dark.php, line 2354: TypeError: json is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+1653717457029	Marionette	INFO	Stopped listening on port 59525
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653717458719	geckodriver	INFO	Listening on 127.0.0.1:60430
+1653717461776	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60431" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofileuQYrxn"
+1653717462237	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofileuQYrxn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60431/devtools/browser/07cf1f77-8513-43ed-83c1-b3f0ac9000d4
+1653717464729	Marionette	INFO	Listening on port 60436
+1653717464966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+<<<<<<< HEAD
+=======
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+<<<<<<< HEAD
 1652963303697	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
 JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
 1652963535933	geckodriver	INFO	Listening on 127.0.0.1:59821
@@ -12681,6 +13318,22 @@ Read port: 40543
 1652963540451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
 console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+=======
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+JavaScript error: https://www.facebook.com/v4.0/plugins/page.php?adapt_container_width=true&app_id=1840543096269687&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df120047f872a982%26domain%3Dbeams.beaconhouse.edu.pk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fbeams.beaconhouse.edu.pk%252Ff11810c2857c57c%26relation%3Dparent.parent&container_width=0&height=280&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FBeaconhouseSchoolSystemOfficial%2F&locale=en_US&sdk=joey&show_facepile=true&small_header=true&tabs=timeline&width&_rdc=1&_rdr, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/v4.0/plugins/page.php?adapt_container_width=true&app_id=1840543096269687&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df120047f872a982%26domain%3Dbeams.beaconhouse.edu.pk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fbeams.beaconhouse.edu.pk%252Ff11810c2857c57c%26relation%3Dparent.parent&container_width=0&height=280&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FBeaconhouseSchoolSystemOfficial%2F&locale=en_US&sdk=joey&show_facepile=true&small_header=true&tabs=timeline&width&_rdc=1&_rdr, line 1: SyntaxError: unexpected token: ':'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/resources/js/index.js?id=1653716823, line 2896: TypeError: exists is undefined
+1653717556480	Marionette	INFO	Stopped listening on port 60431653717557551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64106" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofilepmpS50"
+1653717558429	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofilepmpS50\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64106/devtools/browser/3eb15cee-3b2f-4edc-96e3-291dc097e32a
+1653717561677	Marionette	INFO	Listening on port 64112
+1653717561812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
@@ -12696,6 +13349,47 @@ JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/j
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+<<<<<<< HEAD
+=======
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/home_dashboard/index-dark.php, line 2354: TypeError: json is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+JavaScript error: https://www.facebook.com/v4.0/plugins/page.php?adapt_container_width=true&app_id=1840543096269687&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df322799e8e47aa8%26domain%3Dbeams.beaconhouse.edu.pk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fbeams.beaconhouse.edu.pk%252Ff38366ba7514e74%26relation%3Dparent.parent&container_width=0&height=280&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FBeaconhouseSchoolSystemOfficial%2F&locale=en_US&sdk=joey&show_facepile=true&small_header=true&tabs=timeline&width&_rdc=1&_rdr, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/v4.0/plugins/page.php?adapt_container_width=true&app_id=1840543096269687&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df322799e8e47aa8%26domain%3Dbeams.beaconhouse.edu.pk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fbeams.beaconhouse.edu.pk%252Ff38366ba7514e74%26relation%3Dparent.parent&container_width=0&height=280&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FBeaconhouseSchoolSystemOfficial%2F&locale=en_US&sdk=joey&show_facepile=true&small_header=true&tabs=timeline&width&_rdc=1&_rdr, line 1: SyntaxError: unexpected token: ':'
+1653717639087	Marionette	INFO	Stopped listening on port 64112
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51465" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofileFgkcYb"
+1653717635711	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofileFgkcYb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51465/devtools/browser/c9992715-113c-47e6-9781-ba1e35ee88a0
+1653717639995	Marionette	INFO	Listening on port 51470
+1653717640606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
@@ -12710,15 +13404,52 @@ JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/j
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 6189: TypeError: body is undefined
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 8332: TypeError: body is undefined
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 9164: TypeError: body is undefined
+<<<<<<< HEAD
 1652963588456	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
 JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
 Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
 GeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.js:812:3
+=======
+JavaScript error: https://beams.beaconhouse.edu.pk/home/home_dashboard/assets/custom.js, line 2: TypeError: $(...).tooltip is not a function
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+1653717675943	Marionette	INFO	Stopped listening on port 51470
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
 
 
 ###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
 
 
+<<<<<<< HEAD
 ###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
 
 1652963657409	Marionette	INFO	Stopped listening on port 40543
@@ -12739,6 +13470,41 @@ Read port: 45023
 1652963669482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
 console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+=======
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1653722342445	geckodriver	INFO	Listening on 127.0.0.1:63083
+1653722345425	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63084" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofileTZLKsq"
+1653722346535	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofileTZLKsq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63084/devtools/browser/fc66b9ff-a6a5-4239-ab29-58c5836fe927
+1653722349146	Marionette	INFO	Listening on port 63504
+1653722349619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
@@ -12754,6 +13520,12 @@ JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/j
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+<<<<<<< HEAD
+=======
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
@@ -12768,6 +13540,7 @@ JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/j
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 6189: TypeError: body is undefined
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 8332: TypeError: body is undefined
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 9164: TypeError: body is undefined
+<<<<<<< HEAD
 JavaScript error: https://beams.beaconhouse.edu.pk/home/home.php, line 1152: TypeError: response.responseText is undefined
 JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
 JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
@@ -12788,6 +13561,40 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1652964141632	Marionette	INFO	Listening on port 37589
 Read port: 37589
 1652964141749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+=======
+1653722373184	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+JavaScript error: https://www.facebook.com/v4.0/plugins/page.php?adapt_container_width=true&app_id=1840543096269687&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df191de4fdc38638%26domain%3Dbeams.beaconhouse.edu.pk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fbeams.beaconhouse.edu.pk%252Ff14da53904ff7e%26relation%3Dparent.parent&container_width=0&height=280&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FBeaconhouseSchoolSystemOfficial%2F&locale=en_US&sdk=joey&show_facepile=true&small_header=true&tabs=timeline&width&_rdc=1&_rdr, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/v4.0/plugins/page.php?adapt_container_width=true&app_id=1840543096269687&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df191de4fdc38638%26domain%3Dbeams.beaconhouse.edu.pk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fbeams.beaconhouse.edu.pk%252Ff14da53904ff7e%26relation%3Dparent.parent&container_width=0&height=280&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FBeaconhouseSchoolSystemOfficial%2F&locale=en_US&sdk=joey&show_facepile=true&small_header=true&tabs=timeline&width&_rdc=1&_rdr, line 1: SyntaxError: unexpected token: ':'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/resources/js/index.js?id=1653721713, line 2896: TypeError: exists is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653722755649	Marionette	INFO	Stopped listening on port 63501653722756456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51780" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofilebaoVcJ"
+1653722756907	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofilebaoVcJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51780/devtools/browser/74ad5980-4a50-44a7-b477-3a3f2e2ed1db
+1653722759920	Marionette	INFO	Listening on port 51793
+1653722760176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
@@ -12803,11 +13610,18 @@ JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/j
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+<<<<<<< HEAD
+=======
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+<<<<<<< HEAD
 JavaScript error: https://beams.beaconhouse.edu.pk/home/home.php, line 1152: TypeError: response.responseText is undefined
 JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
 1652964324298	geckodriver	INFO	Listening on 127.0.0.1:46941
@@ -12824,12 +13638,18 @@ Read port: 38209
 console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
 console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
 1652964332094	Marionette	INFO	Stopped listening on port 37589
+=======
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+<<<<<<< HEAD
+=======
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
@@ -12840,10 +13660,15 @@ JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/j
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+<<<<<<< HEAD
+=======
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+<<<<<<< HEAD
 1652964374603	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
 JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
 JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
@@ -12859,6 +13684,16 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 Read port: 36297
 1652964506545	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 1652964507304	Marionette	INFO	Stopped listening on port 38209
+=======
+JavaScript error: https://www.facebook.com/v4.0/plugins/page.php?adapt_container_width=true&app_id=1840543096269687&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df204a7bd50fbc3c%26domain%3Dbeams.beaconhouse.edu.pk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fbeams.beaconhouse.edu.pk%252Ff139385952430d8%26relation%3Dparent.parent&container_width=0&height=325&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FBeaconhouseSchoolSystemOfficial%2F&locale=en_US&sdk=joey&show_facepile=true&small_header=true&tabs=timeline&width&_rdc=1&_rdr, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/v4.0/plugins/page.php?adapt_container_width=true&app_id=1840543096269687&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df204a7bd50fbc3c%26domain%3Dbeams.beaconhouse.edu.pk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fbeams.beaconhouse.edu.pk%252Ff139385952430d8%26relation%3Dparent.parent&container_width=0&height=325&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FBeaconhouseSchoolSystemOfficial%2F&locale=en_US&sdk=joey&show_facepile=true&small_header=true&tabs=timeline&width&_rdc=1&_rdr, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1653722923122	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53077" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofile4Gt9KA"
+1653722923566	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofile4Gt9KA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53077/devtools/browser/07acab00-096c-47f6-bb5b-f2b3852ce5fc
+1653722926150	Marionette	INFO	Listening on port 53082
+1653722926336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
@@ -12874,11 +13709,18 @@ JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/j
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+<<<<<<< HEAD
+=======
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+<<<<<<< HEAD
 1652964532309	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
 JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
 JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
@@ -12897,6 +13739,17 @@ Read port: 39025
 
 ###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
 
+=======
+JavaScript error: resource://devtools/client/framework/devtools.js, line 767: TypeError: inspector.inspectorFront is undefined
+JavaScript error: https://www.facebook.com/v4.0/plugins/page.php?adapt_container_width=true&app_id=1840543096269687&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Dfb0346420b5e26%26domain%3Dbeams.beaconhouse.edu.pk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fbeams.beaconhouse.edu.pk%252Ff3ce3c846a9e826%26relation%3Dparent.parent&container_width=0&height=325&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FBeaconhouseSchoolSystemOfficial%2F&locale=en_US&sdk=joey&show_facepile=true&small_header=true&tabs=timeline&width&_rdc=1&_rdr, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/v4.0/plugins/page.php?adapt_container_width=true&app_id=1840543096269687&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Dfb0346420b5e26%26domain%3Dbeams.beaconhouse.edu.pk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fbeams.beaconhouse.edu.pk%252Ff3ce3c846a9e826%26relation%3Dparent.parent&container_width=0&height=325&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FBeaconhouseSchoolSystemOfficial%2F&locale=en_US&sdk=joey&show_facepile=true&small_header=true&tabs=timeline&width&_rdc=1&_rdr, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1653723181848	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57661" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofileLYi9i3"
+1653723182321	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofileLYi9i3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57661/devtools/browser/16db8d0e-d37a-428d-bdc9-a56186d4a692
+1653723185314	Marionette	INFO	Listening on port 57667
+1653723185537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
@@ -12912,11 +13765,18 @@ JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/j
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+<<<<<<< HEAD
+=======
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+<<<<<<< HEAD
 JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
 1652964858261	geckodriver	INFO	Listening on 127.0.0.1:57161
 1652964858269	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile7ZJkcU"
@@ -12931,6 +13791,30 @@ Read port: 40657
 1652964861833	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
 console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+=======
+JavaScript error: https://beams.beaconhouse.edu.pk/home/home_dashboard/index-dark.php, line 2168: TypeError: json is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/home_dashboard/index-dark.php, line 2354: TypeError: json is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+1653723245078	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/resources/js/index.js?id=1653722554, line 2896: TypeError: exists is undefined
+JavaScript error: https://www.facebook.com/v4.0/plugins/page.php?adapt_container_width=true&app_id=1840543096269687&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df11a4e8f7bd86a%26domain%3Dbeams.beaconhouse.edu.pk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fbeams.beaconhouse.edu.pk%252Ff3d22332c7493d8%26relation%3Dparent.parent&container_width=0&height=280&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FBeaconhouseSchoolSystemOfficial%2F&locale=en_US&sdk=joey&show_facepile=true&small_header=true&tabs=timeline&width&_rdc=1&_rdr, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/v4.0/plugins/page.php?adapt_container_width=true&app_id=1840543096269687&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df11a4e8f7bd86a%26domain%3Dbeams.beaconhouse.edu.pk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fbeams.beaconhouse.edu.pk%252Ff3d22332c7493d8%26relation%3Dparent.parent&container_width=0&height=280&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FBeaconhouseSchoolSystemOfficial%2F&locale=en_US&sdk=joey&show_facepile=true&small_header=true&tabs=timeline&width&_rdc=1&_rdr, line 1: SyntaxError: unexpected token: ':'
+1653723317915	Marionette	INFO	Stopped listening on port 57661653723318915	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56170" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofilenRqfX2"
+1653723319399	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofilenRqfX2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56170/devtools/browser/fb7ab09d-14bb-413f-b585-f94d994bc036
+1653723322377	Marionette	INFO	Listening on port 56175
+1653723322813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
@@ -12946,6 +13830,12 @@ JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/j
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+<<<<<<< HEAD
+=======
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
@@ -12953,16 +13843,37 @@ console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message f
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/plugins/global/plugins.bundle.js, line 12837: TypeError: document.body is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/plugins/global/plugins.bundle.js, line 60665: TypeError: a.adopt(...).nested is not a function
+<<<<<<< HEAD
 1652964907096	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
 JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
 JavaScript error: https://beams.beaconhouse.edu.pk/resources/js/index.js?id=1652964894, line 2267: TypeError: ReqWindow.contentWindow.document.body is null
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
 1652965000525	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+=======
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 933: TypeError: document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 1648: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5201: TypeError: document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5802: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 6189: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 8332: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 9164: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/home_dashboard/assets/custom.js, line 2: TypeError: $(...).tooltip is not a function
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+JavaScript error: https://www.facebook.com/v4.0/plugins/page.php?adapt_container_width=true&app_id=1840543096269687&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df7a73979734496%26domain%3Dbeams.beaconhouse.edu.pk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fbeams.beaconhouse.edu.pk%252Ff30eac2d4ffe616%26relation%3Dparent.parent&container_width=0&height=280&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FBeaconhouseSchoolSystemOfficial%2F&locale=en_US&sdk=joey&show_facepile=true&small_header=true&tabs=timeline&width&_rdc=1&_rdr, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/v4.0/plugins/page.php?adapt_container_width=true&app_id=1840543096269687&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df7a73979734496%26domain%3Dbeams.beaconhouse.edu.pk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fbeams.beaconhouse.edu.pk%252Ff30eac2d4ffe616%26relation%3Dparent.parent&container_width=0&height=280&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FBeaconhouseSchoolSystemOfficial%2F&locale=en_US&sdk=joey&show_facepile=true&small_header=true&tabs=timeline&width&_rdc=1&_rdr, line 1: SyntaxError: unexpected token: ':'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/resources/js/index.js?id=1653722678, line 2896: TypeError: exists is undefined
+1653723382592	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
 TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
 TimedPromise@chrome://remote/content/marionette/sync.js:220:10
 interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
 webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+<<<<<<< HEAD
 JavaScript error: https://beams.beaconhouse.edu.pk/resources/js/index.js?id=1652964894, line 2896: TypeError: exists is undefined
 JavaScript error: https://beams.beaconhouse.edu.pk/resources/js/index.js?id=1652964894, line 2267: TypeError: ReqWindow.contentWindow.document.body is null
 Exiting due to channel error.
@@ -12987,6 +13898,14 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1652965084194	Marionette	INFO	Listening on port 44617
 Read port: 44617
 1652965084271	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+=======
+1653723421973	Marionette	INFO	Stopped listening on port 56171653723422004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55649" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofileKg8eK9"
+1653723422587	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofileKg8eK9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55649/devtools/browser/164d2505-5925-493e-92eb-33b702f9bcf1
+1653723427558	Marionette	INFO	Listening on port 55655
+1653723427856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
@@ -13002,11 +13921,18 @@ JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/j
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+<<<<<<< HEAD
+=======
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+<<<<<<< HEAD
 JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
 Exiting due to channel error.
 Exiting due to channel error.
@@ -13025,6 +13951,108 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1652965321898	Marionette	INFO	Listening on port 41791
 Read port: 41791
 1652965321966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+=======
+JavaScript error: https://www.facebook.com/v4.0/plugins/page.php?adapt_container_width=true&app_id=1840543096269687&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df33710a109db65a%26domain%3Dbeams.beaconhouse.edu.pk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fbeams.beaconhouse.edu.pk%252Ff12057b341b9058%26relation%3Dparent.parent&container_width=0&height=280&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FBeaconhouseSchoolSystemOfficial%2F&locale=en_US&sdk=joey&show_facepile=true&small_header=true&tabs=timeline&width&_rdc=1&_rdr, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/v4.0/plugins/page.php?adapt_container_width=true&app_id=1840543096269687&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df33710a109db65a%26domain%3Dbeams.beaconhouse.edu.pk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fbeams.beaconhouse.edu.pk%252Ff12057b341b9058%26relation%3Dparent.parent&container_width=0&height=280&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FBeaconhouseSchoolSystemOfficial%2F&locale=en_US&sdk=joey&show_facepile=true&small_header=true&tabs=timeline&width&_rdc=1&_rdr, line 1: SyntaxError: unexpected token: ':'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/resources/js/index.js?id=1653722792, line 2896: TypeError: exists is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/resources/js/index.js?id=1653722792, line 2267: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+SourceActor threw an exception: Error: Failed to fetch https://beams.beaconhouse.edu.pk/students/sam/dashboard/sam_branches.php?mobile=. Code 2152398879.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://beams.beaconhouse.edu.pk/students/sam/dashboard/sam_branches.php?mobile=. Code 2152398879.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://beams.beaconhouse.edu.pk/students/sam/dashboard/sam_branches.php?mobile=. Code 2152398879.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+openPromptSync@resource://gre/modules/Prompter.jsm:1057:17
+confirm@resource://gre/modules/Prompter.jsm:1377:10
+sumbit_query_frm@https://beams.beaconhouse.edu.pk/students/assessment/sta_prep_result_main.php?module_id=55&mod_func_id=5:1059:7
+onclick@https://beams.beaconhouse.edu.pk/students/assessment/sta_prep_result_main.php?module_id=55&mod_func_id=5:1:1
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1653723830426	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56285" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofileVlxnTm"
+1653723831325	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofileVlxnTm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56285/devtools/browser/dcfdef25-5cd5-41a2-bbc5-bc9ba36be3dd
+1653723833832	Marionette	INFO	Listening on port 56297
+1653723834133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
@@ -13040,11 +14068,18 @@ JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/j
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+<<<<<<< HEAD
+=======
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+<<<<<<< HEAD
 1652965360657	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
 JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
 JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
@@ -13071,6 +14106,45 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1652965522070	Marionette	INFO	Listening on port 34139
 Read port: 34139
 1652965522168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+=======
+JavaScript error: https://www.facebook.com/v4.0/plugins/page.php?adapt_container_width=true&app_id=1840543096269687&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df5270f2f9b1c44%26domain%3Dbeams.beaconhouse.edu.pk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fbeams.beaconhouse.edu.pk%252Ff198f95d9dbeec2%26relation%3Dparent.parent&container_width=0&height=280&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FBeaconhouseSchoolSystemOfficial%2F&locale=en_US&sdk=joey&show_facepile=true&small_header=true&tabs=timeline&width&_rdc=1&_rdr, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/v4.0/plugins/page.php?adapt_container_width=true&app_id=1840543096269687&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df5270f2f9b1c44%26domain%3Dbeams.beaconhouse.edu.pk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fbeams.beaconhouse.edu.pk%252Ff198f95d9dbeec2%26relation%3Dparent.parent&container_width=0&height=280&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FBeaconhouseSchoolSystemOfficial%2F&locale=en_US&sdk=joey&show_facepile=true&small_header=true&tabs=timeline&width&_rdc=1&_rdr, line 1: SyntaxError: unexpected token: ':'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/resources/js/index.js?id=1653723199, line 2896: TypeError: exists is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653724048923	Marionette	INFO	Stopped listening on port 56291653724049927	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57462" "-no-remote" "-profile" "C:\\Users\\DAKONW~1\\AppData\\Local\\Temp\\rust_mozprofileEHysQb"
+1653724050380	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dakonwindows\\AppData\\Local\\Temp\\rust_mozprofileEHysQb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57462/devtools/browser/9d31c502-291d-44de-bbd1-0148c436c074
+1653724052845	Marionette	INFO	Listening on port 57467
+1653724053097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
 JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
@@ -13086,11 +14160,18 @@ JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/j
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+<<<<<<< HEAD
+=======
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+<<<<<<< HEAD
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/plugins/global/plugins.bundle.js, line 12837: TypeError: document.body is null
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/plugins/global/plugins.bundle.js, line 60665: TypeError: a.adopt(...).nested is not a function
 JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 933: TypeError: document.body is null
@@ -13108,3 +14189,132 @@ Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+=======
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.facebook.com/v4.0/plugins/page.php?adapt_container_width=true&app_id=1840543096269687&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df224a56e8f35af%26domain%3Dbeams.beaconhouse.edu.pk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fbeams.beaconhouse.edu.pk%252Ff2e369175472718%26relation%3Dparent.parent&container_width=0&height=280&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FBeaconhouseSchoolSystemOfficial%2F&locale=en_US&sdk=joey&show_facepile=true&small_header=true&tabs=timeline&width&_rdc=1&_rdr, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/v4.0/plugins/page.php?adapt_container_width=true&app_id=1840543096269687&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df224a56e8f35af%26domain%3Dbeams.beaconhouse.edu.pk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fbeams.beaconhouse.edu.pk%252Ff2e369175472718%26relation%3Dparent.parent&container_width=0&height=280&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FBeaconhouseSchoolSystemOfficial%2F&locale=en_US&sdk=joey&show_facepile=true&small_header=true&tabs=timeline&width&_rdc=1&_rdr, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://beams.beaconhouse.edu.pk/resources/js/index.js?id=1653723419, line 2896: TypeError: exists is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/resources/js/index.js?id=1653723419, line 2267: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653724188324	Marionette	INFO	Stopped listening on port 57467
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+>>>>>>> 0765514bcaf66ec53eb166a2e7a12f12ce3854c3

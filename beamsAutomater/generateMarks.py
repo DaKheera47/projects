@@ -8,12 +8,12 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException, StaleElementReferenceException, NoSuchElementException
+from selenium.common.exceptions import TimeoutException, StaleElementReferenceException, NoSuchElementException, ElementNotInteractableException
 import time
 import os
 from pick import pick
 
-DELAY = 5
+DELAY = 3
 
 
 def clear():
@@ -38,17 +38,6 @@ driver.get("https://beams.beaconhouse.edu.pk/home/")
 def get_label(option): return option.text
 
 
-# def isPageLoaded(ele, driver=driver, by=By.CSS_SELECTOR):
-#     while True:
-#         try:
-#             myElem = WebDriverWait(driver, 120).until(
-#                 EC.presence_of_element_located(by=by, value='IdOfMyElement'))
-#             break
-#         except TimeoutException:
-#             print("Loading took too much time!")
-#             continue
-
-
 def resetFrame(newFrame, sleep=3, driver=driver):
     time.sleep(sleep / 2)
     driver.switch_to.default_content()
@@ -63,10 +52,16 @@ def getElement(value, driver=driver, by=By.CSS_SELECTOR):
             return ele
 
         except ValueError as e:
+            print(e)
             continue
         except NoSuchElementException as e:
+            print(e)
             continue
         except StaleElementReferenceException as e:
+            print(e)
+            continue
+        except ElementNotInteractableException as e:
+            print(e)
             continue
 
 
@@ -77,10 +72,16 @@ def getElements(value, driver=driver, by=By.CSS_SELECTOR):
             return ele
 
         except ValueError as e:
+            print(e)
             continue
         except NoSuchElementException as e:
+            print(e)
             continue
         except StaleElementReferenceException as e:
+            print(e)
+            continue
+        except ElementNotInteractableException as e:
+            print(e)
             continue
 
 
@@ -91,15 +92,17 @@ inputs[1].send_keys(Keys.ENTER)
 
 # go to old beams
 time.sleep(DELAY)
-# isPageLoaded()
+# time.sleep(7)
 driver.get("https://beams.beaconhouse.edu.pk/home.php")
 
 # gradebook button
-driver.execute_script("parent.addTab('Gradebook','iconCls','//beams.beaconhouse.edu.pk/students/sam/dashboard/sam_branches.php?mobile=');")
+driver.execute_script(
+    "parent.addTab('Gradebook','iconCls','//beams.beaconhouse.edu.pk/students/sam/dashboard/sam_branches.php?mobile=');")
 
 # selecting branch
 samBranches = "ii_//beams.beaconhouse.edu.pk/students/sam/dashboard/sam_branches.php"
 resetFrame(samBranches)
+time.sleep(DELAY)
 
 # branch input
 getElement("input", by=By.TAG_NAME).click()
@@ -110,26 +113,27 @@ time.sleep(DELAY)
 
 # assessment entry
 resetFrame("ii_students/sam/dashboard/index.php")
-getElement("ext-gen11", by=By.ID).click()
+getElement("ext-gen19", by=By.ID).click()
 time.sleep(DELAY)
 
 clear()
-desc = input("Enter description: ")
-marks = int(input("Enter marks: "))
-selections = ["Class: ", "Section: ", "Subject: ", "Semester: ",
-              "Assessment: ", "Paper Type: ", "Type of Test: "]
+selections = ["Branch: ", "Class: ", "Section: ", "Subject: ", "Term: "]
 
-
-assEntryFrame = "ii_students/assessment/sam_class_assessment_entry.php"
+assEntryFrame = "ii_students/assessment/sta_prep_result_main.php"
 for i, selection in enumerate(selections):
     while True:
         resetFrame(assEntryFrame, sleep=0)
         entries = getElements(".bss_form_textbox")
-        # time.sleep(0)
 
         try:
             select = Select(entries[i])
-            # loop through options in select element
+
+            # if select only has one option, choose that option
+            if len(select.options) == 2:
+                index = 0
+                break
+
+            print([x.text for x in select.options])
             sel, index = pick(select.options[1:],
                               selection, options_map_func=get_label)
             break
@@ -144,68 +148,13 @@ for i, selection in enumerate(selections):
     select.select_by_index(index + 1)
     clear()
 
-# max marks field
-getElement("#br_max_marks").send_keys(f"{marks}")
-# description field
-getElement("#br_desc").send_keys(f"{desc}")
-# refresh button
-getElement("#aaaa").click()
 
-# store student names
-resetFrame(assEntryFrame)
-xpath = "//td[@class='x-grid3-col x-grid3-cell x-grid3-td-std_name ']//div"
-students = getElements(xpath, by=By.XPATH)
-studentNames = []
-for student in students:
-    studentNames.append(student.text)
+getElement("//input[@value='B']", by=By.XPATH).click()
+getElement("//input[@value='Refresh']", by=By.XPATH).click()
+getElement("//input[@value='Generate']", by=By.XPATH).click()
 
-# entry job
-xpath = f"//td[@class='x-grid3-col x-grid3-cell x-grid3-td-std_grade ']"
-entries = getElements(xpath, by=By.XPATH)
+WebDriverWait(driver, 10).until(EC.alert_is_present())
+driver.switch_to.alert.accept()
 
-results = []
-total = 0
-for i, ele in enumerate(entries):
-    resetFrame(assEntryFrame, sleep=0.2)
-    clear()
-    print(f"Max marks: {marks}")
-    print(f"Description: {desc}")
-
-    # average
-    if i != 0:
-        avg = total / i
-        print(f"Average: {avg :.2f}")
-
-    print()
-
-    student = students[i]
-    e = entries[i]
-
-    # print previous students
-    for ri, r in enumerate(results, start=1):
-        print(f"{ri :02}. {r['name']}: {r['marks']}/{marks}")
-
-    # click on student input
-    driver.execute_script("arguments[0].scrollIntoView()", e)
-    e.click()
-
-    # get obtained from user
-    while True:
-        obtained = int(input(f"{i + 1 :02}. {student.text}: "))
-        if obtained <= marks:
-            break
-
-    total += obtained
-    results.append({"name": student.text, "marks": obtained})
-
-    # get input and send data
-    stuInp = "//input[@id='ext-comp-1003']"
-    getElement(stuInp, by=By.XPATH).send_keys(f"{obtained}\n")
-
-print(results)
-
-resetFrame(assEntryFrame)
-# save button
-# getElement("#ext-gen22").click()
-time.sleep(5)
+time.sleep(10)
 driver.quit()
