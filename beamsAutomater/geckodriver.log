@@ -12399,3 +12399,712 @@ JavaScript error: https://beams.beaconhouse.edu.pk/students/assessment/sam_class
 
 ###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
 
+1652958322788	geckodriver	INFO	Listening on 127.0.0.1:38339
+1652958323801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileBJrYRM"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/dak which is owned by dak.)
+1652958334770	geckodriver	INFO	Listening on 127.0.0.1:35799
+1652958335779	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileZSXN5p"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/dak which is owned by dak.)
+1652959187290	geckodriver	INFO	Listening on 127.0.0.1:43445
+1652959188295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileNGIppR"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/dak which is owned by dak.)
+1652961591448	geckodriver	INFO	Listening on 127.0.0.1:34267
+1652961592455	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilecLtjdi"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/dak which is owned by dak.)
+1652961775991	geckodriver	INFO	Listening on 127.0.0.1:53255
+1652961775999	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilegXAD6F"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/dak which is owned by dak.)
+1652962074311	geckodriver	INFO	Listening on 127.0.0.1:35551
+1652962074316	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileCVdEEc"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/dak which is owned by dak.)
+1652962096250	geckodriver	INFO	Listening on 127.0.0.1:34567
+1652962096255	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile2g9FjU"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652962097390	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2g9FjU/search.json.mozlz4", (void 0)))
+1652962099573	Marionette	INFO	Listening on port 36769
+Read port: 36769
+1652962099791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+1652962172843	Marionette	INFO	Stopped listening on port 36769
+1652962489231	geckodriver	INFO	Listening on 127.0.0.1:54737
+1652962489242	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilek8lkmA"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652962491072	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilek8lkmA/search.json.mozlz4", (void 0)))
+1652962495027	Marionette	INFO	Listening on port 38685
+Read port: 38685
+1652962495143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1652962612981	geckodriver	INFO	Listening on 127.0.0.1:60679
+1652962612987	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilegJXegz"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652962614155	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegJXegz/search.json.mozlz4", (void 0)))
+1652962616622	Marionette	INFO	Listening on port 38909
+Read port: 38909
+1652962616758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652962657739	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652962836358	geckodriver	INFO	Listening on 127.0.0.1:55123
+1652962836365	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileCk3Wg2"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652962837699	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCk3Wg2/search.json.mozlz4", (void 0)))
+1652962840296	Marionette	INFO	Listening on port 43089
+Read port: 43089
+1652962840445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1652962855446	Marionette	INFO	Stopped listening on port 38909
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/plugins/global/plugins.bundle.js, line 12837: TypeError: document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/plugins/global/plugins.bundle.js, line 60665: TypeError: a.adopt(...).nested is not a function
+1652962872889	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+1652962981051	geckodriver	INFO	Listening on 127.0.0.1:53917
+1652962982056	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilegsCtr6"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652962983191	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1652962984122	Marionette	INFO	Stopped listening on port 43089
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegsCtr6/search.json.mozlz4", (void 0)))
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652962986160	Marionette	INFO	Listening on port 40723
+Read port: 40723
+1652962986310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/plugins/global/plugins.bundle.js, line 12837: TypeError: document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/plugins/global/plugins.bundle.js, line 60665: TypeError: a.adopt(...).nested is not a function
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 933: TypeError: document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 1648: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5201: TypeError: document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5802: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 6189: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 8332: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 9164: TypeError: body is undefined
+1652963010847	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 1736: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5834: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 8366: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/resources/js/index.js?id=1652962998, line 2267: TypeError: ReqWindow.contentWindow.document.body is null
+1652963253099	geckodriver	INFO	Listening on 127.0.0.1:54595
+1652963253104	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilethFM1d"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652963254296	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilethFM1d/search.json.mozlz4", (void 0)))
+1652963256626	Marionette	INFO	Listening on port 33683
+Read port: 33683
+1652963256801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652963258083	Marionette	INFO	Stopped listening on port 40723
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:154:26
+
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652963303697	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+1652963535933	geckodriver	INFO	Listening on 127.0.0.1:59821
+1652963535940	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilegCiuoE"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652963537114	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegCiuoE/search.json.mozlz4", (void 0)))
+1652963540271	Marionette	INFO	Listening on port 40543
+Read port: 40543
+1652963540451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/plugins/global/plugins.bundle.js, line 12837: TypeError: document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/plugins/global/plugins.bundle.js, line 60665: TypeError: a.adopt(...).nested is not a function
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 933: TypeError: document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 1648: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5201: TypeError: document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5802: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 6189: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 8332: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 9164: TypeError: body is undefined
+1652963588456	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.js:812:3
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+1652963657409	Marionette	INFO	Stopped listening on port 40543
+1652963660587	Marionette	INFO	Stopped listening on port 33683
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652963666036	geckodriver	INFO	Listening on 127.0.0.1:50881
+1652963666042	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiletHoVlr"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652963667180	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletHoVlr/search.json.mozlz4", (void 0)))
+1652963669359	Marionette	INFO	Listening on port 45023
+Read port: 45023
+1652963669482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/plugins/global/plugins.bundle.js, line 12837: TypeError: document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/plugins/global/plugins.bundle.js, line 60665: TypeError: a.adopt(...).nested is not a function
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 933: TypeError: document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 1648: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5201: TypeError: document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5802: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 6189: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 8332: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 9164: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/home.php, line 1152: TypeError: response.responseText is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/resources/js/index.js?id=1652963746, line 2896: TypeError: exists is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/resources/js/index.js?id=1652963746, line 2267: TypeError: ReqWindow.contentWindow.document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/resources/js/index.js?id=1652963746, line 2267: TypeError: ReqWindow.contentWindow.document.body is null
+1652963922847	Marionette	INFO	Stopped listening on port 45023
+1652964137868	geckodriver	INFO	Listening on 127.0.0.1:45037
+1652964137875	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile7rTsr0"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652964139007	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7rTsr0/search.json.mozlz4", (void 0)))
+1652964141632	Marionette	INFO	Listening on port 37589
+Read port: 37589
+1652964141749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/home.php, line 1152: TypeError: response.responseText is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+1652964324298	geckodriver	INFO	Listening on 127.0.0.1:46941
+1652964324304	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileMZw9tj"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652964325664	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMZw9tj/search.json.mozlz4", (void 0)))
+1652964328111	Marionette	INFO	Listening on port 38209
+Read port: 38209
+1652964328260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1652964332094	Marionette	INFO	Stopped listening on port 37589
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652964374603	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+1652964502225	geckodriver	INFO	Listening on 127.0.0.1:58783
+1652964502230	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileeaQOqb"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652964503512	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeaQOqb/search.json.mozlz4", (void 0)))
+1652964506460	Marionette	INFO	Listening on port 36297
+Read port: 36297
+1652964506545	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652964507304	Marionette	INFO	Stopped listening on port 38209
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652964532309	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+1652964708707	geckodriver	INFO	Listening on 127.0.0.1:59377
+1652964708712	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilecxSbGh"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652964709801	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecxSbGh/search.json.mozlz4", (void 0)))
+1652964712374	Marionette	INFO	Listening on port 39025
+Read port: 39025
+1652964712488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652964717307	Marionette	INFO	Stopped listening on port 36297
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+1652964858261	geckodriver	INFO	Listening on 127.0.0.1:57161
+1652964858269	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile7ZJkcU"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652964859405	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7ZJkcU/search.json.mozlz4", (void 0)))
+1652964861766	Marionette	INFO	Listening on port 40657
+Read port: 40657
+1652964861833	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/plugins/global/plugins.bundle.js, line 12837: TypeError: document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/plugins/global/plugins.bundle.js, line 60665: TypeError: a.adopt(...).nested is not a function
+1652964907096	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/resources/js/index.js?id=1652964894, line 2267: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652965000525	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://beams.beaconhouse.edu.pk/resources/js/index.js?id=1652964894, line 2896: TypeError: exists is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/resources/js/index.js?id=1652964894, line 2267: TypeError: ReqWindow.contentWindow.document.body is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1652965079059	Marionette	INFO	Stopped listening on port 39025
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652965080223	geckodriver	INFO	Listening on 127.0.0.1:44481
+1652965080228	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilemOA5mN"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652965081452	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemOA5mN/search.json.mozlz4", (void 0)))
+1652965084194	Marionette	INFO	Listening on port 44617
+Read port: 44617
+1652965084271	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1652965318482	geckodriver	INFO	Listening on 127.0.0.1:35351
+1652965318490	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile98lhFW"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652965319619	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile98lhFW/search.json.mozlz4", (void 0)))
+1652965321898	Marionette	INFO	Listening on port 41791
+Read port: 41791
+1652965321966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652965360657	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/resources/js/index.js?id=1652965348, line 2896: TypeError: exists is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/resources/js/index.js?id=1652965348, line 2267: TypeError: ReqWindow.contentWindow.document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/resources/js/index.js?id=1652965348, line 2267: TypeError: ReqWindow.contentWindow.document.body is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1652965518488	geckodriver	INFO	Listening on 127.0.0.1:56343
+1652965518494	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilebN3BmO"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652965519697	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebN3BmO/search.json.mozlz4", (void 0)))
+1652965522070	Marionette	INFO	Listening on port 34139
+Read port: 34139
+1652965522168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/custom/authentication/sign-up/free-trial.js, line 132: TypeError: form.querySelector(...) is null
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/home/, line 1: ReferenceError: isNS4 is not defined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5031: TypeError: the.highlightElement is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://beams.beaconhouse.edu.pk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/plugins/global/plugins.bundle.js, line 12837: TypeError: document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/plugins/global/plugins.bundle.js, line 60665: TypeError: a.adopt(...).nested is not a function
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 933: TypeError: document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 1648: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5201: TypeError: document.body is null
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 5802: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 6189: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 8332: TypeError: body is undefined
+JavaScript error: https://beams.beaconhouse.edu.pk/lib/metronic_v8.0.27/assets/js/scripts.bundle.js, line 9164: TypeError: body is undefined
+1652965547830	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://beams.beaconhouse.edu.pk/home.php, line 299: TypeError: ReqWindow.contentWindow.document.body is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
