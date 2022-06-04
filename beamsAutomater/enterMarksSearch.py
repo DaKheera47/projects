@@ -13,9 +13,9 @@ import time
 import os
 from pick import pick
 
-DELAY = 5
+DELAY = 1
 
-
+t1 = time.perf_counter()
 def clear():
     os.system('cls' if os.name == 'nt' else 'clear')
 
@@ -49,7 +49,7 @@ def get_label(option): return option.text
 #             continue
 
 
-def resetFrame(newFrame, sleep=3, driver=driver):
+def resetFrame(newFrame, sleep=0, driver=driver):
     time.sleep(sleep / 2)
     driver.switch_to.default_content()
     driver.switch_to.frame(driver.find_element(by=By.ID, value=newFrame))
@@ -95,18 +95,21 @@ time.sleep(DELAY)
 driver.get("https://beams.beaconhouse.edu.pk/home.php")
 
 # gradebook button
-driver.execute_script("parent.addTab('Gradebook','iconCls','//beams.beaconhouse.edu.pk/students/sam/dashboard/sam_branches.php?mobile=');")
+time.sleep(DELAY + 4)
+driver.execute_script(
+    "parent.addTab('Gradebook','iconCls','//beams.beaconhouse.edu.pk/students/sam/dashboard/sam_branches.php?mobile=');")
 
 # selecting branch
 samBranches = "ii_//beams.beaconhouse.edu.pk/students/sam/dashboard/sam_branches.php"
-resetFrame(samBranches)
+resetFrame(samBranches, sleep=0)
 
 # branch input
+# time.sleep(DELAY)
 getElement("input", by=By.TAG_NAME).click()
 
 # select button
 getElement(".bss_form_button").click()
-time.sleep(DELAY)
+# time.sleep(DELAY)
 
 # assessment entry
 resetFrame("ii_students/sam/dashboard/index.php")
@@ -114,6 +117,9 @@ getElement("ext-gen11", by=By.ID).click()
 # time.sleep(DELAY)
 
 clear()
+
+print(time.perf_counter() - t1)
+input()
 desc = input("Enter description: ")
 marks = int(input("Enter marks: "))
 selections = ["Class: ", "Section: ", "Subject: ", "Semester: ",
@@ -129,6 +135,10 @@ for i, selection in enumerate(selections):
         try:
             select = Select(entries[i])
             # loop through options in select element
+            if len(select.options) == 2:
+                index = 0
+                break
+
             sel, index = pick(select.options[1:],
                               selection, options_map_func=get_label)
             break
@@ -166,7 +176,41 @@ results = []
 total = 0
 
 
+names = []
 for i, ele in enumerate(entries):
+    student = students[i]
+    names.append(student.text)
+
+
+for i, ele in enumerate(entries):
+    clear()
+    print(f"Max marks: {marks}")
+    print(f"Description: {desc}")
+
+    # print previous students
+    for ri, r in enumerate(results, start=1):
+        print(f"{ri :02}. {r['name']}: {r['marks']}/{marks}")
+
+    while True:
+        possibilities = []
+        print()
+        searchTerm = input("Partial Student Name: ").lower()
+        for name in names:
+            name = name.lower()
+            if name.startswith(searchTerm) or searchTerm in name:
+                possibilities.append(name.capatialize())
+
+        possibilities.append("Go Back")
+        chosen = pick(possibilities, 'Search output')
+        if chosen[0] == "Go Back":
+            continue
+        else:
+            break
+
+    position = names.index(chosen[0])
+    print(position, chosen)
+
+    ele = entries[position]
     resetFrame(assEntryFrame, sleep=0.2)
     clear()
     print(f"Max marks: {marks}")
@@ -179,12 +223,8 @@ for i, ele in enumerate(entries):
 
     print()
 
-    student = students[i]
-    e = entries[i]
-
-    # print previous students
-    for ri, r in enumerate(results, start=1):
-        print(f"{ri :02}. {r['name']}: {r['marks']}/{marks}")
+    student = students[position]
+    e = entries[position]
 
     # click on student input
     driver.execute_script("arguments[0].scrollIntoView()", e)
@@ -205,12 +245,13 @@ for i, ele in enumerate(entries):
 
     # get input and send data
     stuInp = "//input[@id='ext-comp-1003']"
-    getElement(stuInp, by=By.XPATH).send_keys(f"{obtained}\n")
+    getElement(stuInp, by=By.XPATH).send_keys(f"{obtained}")
+    getElement(stuInp, by=By.XPATH).send_keys(Keys.ENTER)
 
 print(results)
 
 resetFrame(assEntryFrame)
 # save button
-getElement("#ext-gen22").click()
+# getElement("#ext-gen22").click()
 time.sleep(5)
 driver.quit()
